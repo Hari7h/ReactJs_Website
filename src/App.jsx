@@ -1,7 +1,7 @@
 import React from "react"
 import styles from "./style"
 import {  Banner, Business,  Innovative,  Card, Clients,  Features, 
-  Footer, Navbar, Pricing, QnA,  } from "./components"
+  Footer, Navbar,} from "./components"
 import { About,Home, Feature,Support,Notfound } from "./pages";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 
